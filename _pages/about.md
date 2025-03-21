@@ -1,3 +1,12 @@
+---
+permalink: / 
+title: "About me" 
+excerpt: "About me" 
+author_profile: 
+true redirect from:
+- /about/
+- /about. html
+---
 Cai He
 ======
 
