@@ -1,14 +1,12 @@
 ---
 permalink: / 
-title: "About me" 
-excerpt: "About me" 
+title: "Cai He" 
+excerpt: "Cai He" 
 author_profile: 
 true redirect from:
 - /about/
 - /about. html
 ---
-Cai He
-======
 
 I’m currently a first-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by Cheng-Jun Wang(https://chengjunwang.com/#about). I’m also a member of Computational Communication Collaboratory(https://chengjun.github.io/socrateslab/), at Nanjing University.
 
