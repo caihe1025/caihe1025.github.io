@@ -8,7 +8,7 @@ true redirect from:
 - /about. html
 ---
 
-I’m currently a first-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by Cheng-Jun Wang(https://chengjunwang.com/#about). I’m also a member of Computational Communication Collaboratory(https://chengjun.github.io/socrateslab/), at Nanjing University.
+I’m currently a first-year Ph.D. student in the School of Journalism and Communication, at Nanjing University, advised by [Cheng-Jun Wang](https://chengjunwang.com/#about). I’m also a member of [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), at Nanjing University.
 
 my research interests are in international communication and computational communication, with a focus on using some computational methods to do empirical researches, like comparing media narratives, as well as exploring same ways to enhance the international communication abilities of Chinese media.
 
