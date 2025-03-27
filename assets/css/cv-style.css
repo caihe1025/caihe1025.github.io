@@ -15,11 +15,14 @@
 }
 
 .custom-img {
-    float: right;
-    margin: 10px; 
-    width: 150px;
-    height: auto;
+    position: absolute; /* 绝对定位 */
+    top: 10px; /* 距离页面顶部 10px */
+    right: 10px; /* 距离页面右侧 10px */
+    width: 150px; /* 控制图片宽度 */
+    height: auto; /* 保持比例 */
+    z-index: 1000; /* 确保图片显示在最上层 */
 }
+
 
 .cv-header h1 {
   margin-bottom: 0.5rem;
