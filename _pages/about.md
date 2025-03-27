@@ -27,6 +27,6 @@ NEWS
 ======
 ·Aug 31, 2025: I become a Ph.D. student at the School of Journalism and Communication, Nanjing University.
 
-![描述](/images/pss.jpg){:class="custom-img"}
+![描述](/images/dat.png){:class="custom-img"}
 
 
