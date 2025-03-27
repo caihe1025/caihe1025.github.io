@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "个人照片.png"
+  avatar           : "pss.png"
   name             : "Cai He"
   pronouns         : # example: "she/her"  
   bio              : "Seek truth from facts"
