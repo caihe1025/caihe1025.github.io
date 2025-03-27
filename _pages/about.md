@@ -22,3 +22,7 @@ Education
 2023-2025, Master in School of Journalism and Communication, University of Chinese Academy of Social Sciences
 
 2017-2021, Bachelor in School of Literature and Journalism, Sichuan University
+
+NEWS
+======
+·Aug 31, 2025: I become a Ph.D. student at the School of Journalism and Communication, Nanjing University.
