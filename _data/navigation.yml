@@ -17,8 +17,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "中文"
-    url: /markdown/
+   - title: "中文"
+     url: /cv-json/
