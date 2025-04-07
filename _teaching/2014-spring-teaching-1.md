@@ -6,7 +6,6 @@ location: "University of Chinese Academy of Social Sciences"
 layout: default
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
