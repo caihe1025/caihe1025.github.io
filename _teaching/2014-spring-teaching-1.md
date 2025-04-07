@@ -1,10 +1,8 @@
 ---
-title: ""
-collection: 
-type: ""
-venue: ""
-date: 
-location: ""
+title: "Sociology of Communication" 
+type: "Teaching Assistant"
+date: 2024
+location: "University of Chinese Academy of Social Sciences"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
