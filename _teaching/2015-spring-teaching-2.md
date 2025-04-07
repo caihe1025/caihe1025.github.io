@@ -1,10 +1,9 @@
 ---
 title: "Study of main documents"
-collection: 
 type: "Teaching Assistant"
-venue: ""
 date: 2025-03-01
-location: ""
+location: "University of Chinese Academy of Social Sciences"
+layout: default
 ---
 
 
