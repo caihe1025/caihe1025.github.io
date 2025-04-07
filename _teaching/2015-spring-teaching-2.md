@@ -3,7 +3,7 @@ title: ""
 collection: 
 type: ""
 venue: ""
-date: 
+date: 2025-03-01
 location: ""
 ---
 
