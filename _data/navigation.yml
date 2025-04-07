@@ -14,8 +14,8 @@ main:
   - title: "teaching"
     url: /teaching/    
         
-  - title: "cv"
-    url: /cv/
+  #- title: "cv"
+    #url: /cv/
     
   - title: "中文"
     url: /cv-json/
