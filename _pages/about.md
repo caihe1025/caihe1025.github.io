@@ -26,3 +26,5 @@ Education
 NEWS
 ======
 ·Aug 31, 2025: I become a Ph.D. student at the School of Journalism and Communication, Nanjing University.
+
+·Aug 3 , 2025: I created my own academic WeChat public account: Bottle Thrower Says
